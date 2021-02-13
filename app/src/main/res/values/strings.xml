@@ -9,4 +9,6 @@ Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. M
 \n\n
 Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor
     </string>
+    <string name="done">DONE</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
 </resources>
